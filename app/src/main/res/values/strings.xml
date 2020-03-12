@@ -3,4 +3,8 @@
     <string name="main">_main</string>
     <string name="text_header">text_header</string>
     <string name="button">Button</string>
+    <string name="text_header_reply">Text_header_reply</string>
+    <string name="button_main">button_main</string>
+    <string name="edittext_main">Edittext_main</string>
+    <string name="type_your_message_here">type your message here</string>
 </resources>
